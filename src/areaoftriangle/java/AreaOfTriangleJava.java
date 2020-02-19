@@ -20,7 +20,7 @@ public class AreaOfTriangleJava {
     int sideA, sideB, sideC;
     String myInput;
     
-    //Prompts user to enter two side lengths and an angle measurement
+    //Prompts user to enter three side lengths
     myInput = JOptionPane.showInputDialog("Please enter the length of side A:");
     sideA = Integer.parseInt(myInput);
     
